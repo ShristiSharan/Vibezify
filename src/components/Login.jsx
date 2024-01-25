@@ -22,8 +22,8 @@ export default function Login() {
   return (
     <Container>
       <img
-        src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Black.png"
-        alt="spotify"
+        src="/logo_vibezify.png"
+        alt="vibezify"
       />
       <button onClick={handleClick}>Connect Vibezify</button>
     </Container>
@@ -37,7 +37,7 @@ const Container = styled.div`
   flex-direction: column;
   height: 100vh;
   width: 100vw;
-  background-color: linear-gradient(to right, #8a2be2, #ffeb3b);
+  background-color: #1db954 ;
   gap: 5rem;
   img {
     height: 20vh;
