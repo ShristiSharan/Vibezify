@@ -20,6 +20,11 @@ Follow these steps to get Vibezify up and running on your local machine:
 3. Obtain Spotify API credentials and set them in your environment variables.
 4. Start the development server: `npm start`
 
+## Future AddOn's
+
+>> 🚀 Working on enhancing user experience through personalized playlists based on user mood. Introducing a quick survey form to capture user preferences in just a few seconds. Once the user selects their mood [😊 Happy, 😢 Sad, 💪 Motivation, 🌹 Romantic, 🎶 Vibez], a specially curated playlist will be recommended for an immersive musical experience. {Mood Recommendation }
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
