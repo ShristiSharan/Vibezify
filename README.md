@@ -11,6 +11,9 @@ It's a project aimed at creating a personalized and enjoyable music streaming ex
 
 - **Spotify API:** Connecting with the Spotify API to fetch music data, playlists, and recommendations.
 
+![vibezify pic](https://github.com/ShristiSharan/Vibezify/assets/95679078/a2afd1fc-319a-4a37-91bb-283af1043679)
+
+
 ## Getting Started
 
 Follow these steps to get Vibezify up and running on your local machine:
